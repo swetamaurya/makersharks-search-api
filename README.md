@@ -3,7 +3,7 @@ The Makersharks Search API is a Node.js-based RESTful API designed to help users
 The API supports filtering by various parameters and includes pagination to handle large result sets efficiently. It’s built with scalability in mind, ensuring that as the database of suppliers grows, users can still quickly and easily find the manufacturers they need.
 
 **Setup Instructions:**
-git clone https://github.com/your-username/makersharks-search-api.git
+git clone https://github.com/swetamaurya/makersharks-search-api.git
 cd makersharks-search-api
 npm install
 nodemon 
